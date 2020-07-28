@@ -1,4 +1,5 @@
-def square_array(numbers)
   numbers = [1,2,3]
-  numbers.each ** numbers.each
+
+def square_array(numbers)
+  numbers.each**numbers.each
 end
