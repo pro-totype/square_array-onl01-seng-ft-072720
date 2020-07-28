@@ -3,3 +3,4 @@ def square_array(numbers)
   numbers.each(*(numbers)) do |new|
   puts "#{new}"
 end
+end
