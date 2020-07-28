@@ -5,3 +5,4 @@ def square_array(numbers)
   squared = numbers**numbers
   puts "#{array} squared is #{squared}"
 end
+end
